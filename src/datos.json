@@ -1,0 +1,234 @@
+[
+  {
+    "oficio": "Cocinero",
+    "imagenOficio": "/img/cocinero.png",
+    "herramientaCorrecta": "Sartén",
+    "opciones": ["Sartén", "Secador", "Martillo", "Pizarrón"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El cocinero trabaja en la cocina y usa un sartén para preparar comidas deliciosas."
+  },
+  {
+    "oficio": "Carpintero",
+    "imagenOficio": "img/carpintero.png",
+    "herramientaCorrecta": "Martillo",
+    "opciones": ["Martillo", "Brújula", "Harina", "Secador"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El carpintero trabaja con madera para hacer muebles y estructuras, usando herramientas como sierras, martillos y clavos."
+  },
+  {
+    "oficio": "Panadero",
+    "imagenOficio": "img/panadero.png",
+    "herramientaCorrecta": "Pan",
+    "opciones": ["Pan", "Martillo", "Carne", "Brújula"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El panadero amasa y hornea panes, tortas y bizcochos usando ingredientes como harina y herramientas como espátula y horno."
+  },
+  {
+    "oficio": "Carnicero",
+    "imagenOficio": "img/carnicero.png",
+    "herramientaCorrecta": "Carne",
+    "opciones": ["Carne", "Pan", "Martillo", "Brocha"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El carnicero corta y prepara carne para la venta, usando cuchillos, sierras y herramientas"
+  },
+  {
+    "oficio": "Pintor",
+    "imagenOficio": "img/pintor.png",
+    "herramientaCorrecta": "Brocha",
+    "opciones": ["Brocha", "Pan", "Martillo", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El pintor aplica pintura en paredes y objetos, usando brochas, rodillos y pintura para embellecer espacios."
+  },
+  {
+    "oficio": "Electricista",
+    "imagenOficio": "img/electricista.png",
+    "herramientaCorrecta": "Cables",
+    "opciones": ["Cables", "Brocha", "Extintor", "Brújula"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El electricista instala y repara sistemas eléctricos, usando cables, interruptores y herramientas como destornilladores."
+  },
+  {
+    "oficio": "Bombero",
+    "imagenOficio": "img/bombero.png",
+    "herramientaCorrecta": "Extintor",
+    "opciones": ["Extintor", "Brocha", "Estetoscopio", "Esposas"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El bombero apaga incendios y rescata personas en situaciones de emergencia, usando mangueras, extintores y equipos de protección."
+  },
+  {
+    "oficio": "Policía",
+    "imagenOficio": "img/policia.png",
+    "herramientaCorrecta": "Esposas",
+    "opciones": ["Esposas", "Brocha", "Estetoscopio", "Martillo"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El policía protege a la comunidad, investiga delitos y mantiene el orden, usando herramientas como esposas, radios y vehículos patrulleros."
+  },
+  {
+    "oficio": "Mecánico",
+    "imagenOficio": "img/mecanico.png",
+    "herramientaCorrecta": "Llaves",
+    "opciones": ["Llaves", "Espátula", "Estetoscopio", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": " El mecánico repara y mantiene vehículos, usando herramientas como llaves, destornilladores y elevadores para trabajar en los autos."
+  },
+  {
+    "oficio": "Peluquera",
+    "imagenOficio": "img/peluquero.png",
+    "herramientaCorrecta": "Tijeras",
+    "opciones": ["Tijeras", "Taladro", "Sartén", "Martillo"],
+    "audioExplicacion": "",
+    "textoExplicacion": "La peluquera corta, peina y arregla el cabello de las personas usando herramientas como tijeras, secador y peine."
+  },
+  {
+    "oficio": "Albañil",
+    "imagenOficio": "img/albañil.png",
+    "herramientaCorrecta": "Llana",
+    "opciones": ["Llana", "Harina", "Estetoscopio", "Cables"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El albañil construye y repara edificios, casas y estructuras usando ladrillos, cemento y herramientas como palas y llana."
+  },
+  {
+    "oficio": "Plomero",
+    "imagenOficio": "img/plomero.png",
+    "herramientaCorrecta": "Canilla",
+    "opciones": ["Canilla", "Llana", "Harina", "Sartén"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El plomero instala y repara tuberías y canillas, usando herramientas como llaves inglesas, tubos y selladores para evitar fugas."
+  },
+  {
+    "oficio": "Conductor",
+    "imagenOficio": "img/conductor.png",
+    "herramientaCorrecta": "Cinturón",
+    "opciones": ["Cinturón", "Martillo", "Tractor", "Brújula"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El conductor maneja vehículos como autos, camiones o autobuses. Debe de usar siempres el cinturón de seguridad."
+  },
+  {
+    "oficio": "Agricultor",
+    "imagenOficio": "img/agricultor.png",
+    "herramientaCorrecta": "Tractor",
+    "opciones": ["Tractor", "Canilla", "Secador", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El agricultor cultiva y cosecha alimentos en el campo, usando herramientas como arados, tractores y semillas."
+  },
+  {
+    "oficio": "Doctor",
+    "imagenOficio": "img/doctor.png",
+    "herramientaCorrecta": "Estetoscopio",
+    "opciones": ["Estetoscopio", "Espátula", "Escalera", "Brújula"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El médico cuida la salud de las personas, hace diagnósticos y receta tratamientos usando herramientas como el estetoscopio."
+  },
+  {
+    "oficio": "Enfermera",
+    "imagenOficio": "img/enfermera.png",
+    "herramientaCorrecta": "Cofia",
+    "opciones": ["Cofia", "Espátula", "Martillo", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "La enfermera asiste a los médicos y cuida a los pacientes, usando  jeringas, vendas y su conocimiento médico."
+  },
+  {
+    "oficio": "Dentista",
+    "imagenOficio": "img/dentista.png",
+    "herramientaCorrecta": "Máscara",
+    "opciones": ["Martillo", "Espátula", "Máscara", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El dentista cuida la salud bucal de las personas, usa el taladro, espejos y fórceps para tratar dientes y encías."
+  },
+  {
+    "oficio": "Docente",
+    "imagenOficio": "img/docente.png",
+    "herramientaCorrecta": "Pizarrón",
+    "opciones": ["Martillo", "Espátula", "Máscara", "Pizarrón"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El docente enseña a los estudiantes en la escuela, usando libros, pizarras y su conocimiento para ayudarles a aprender."
+  },
+  {
+    "oficio": "Arquitecto",
+    "imagenOficio": "img/arquitecto.png",
+    "herramientaCorrecta": "Planos",
+    "opciones": ["Martillo", "Brújula", "Planos", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El arquitecto diseña edificios y estructuras, usa la computador y  lápices para crear sus planos "
+  },
+  {
+    "oficio": "Abogado",
+    "imagenOficio": "img/abogado.png",
+    "herramientaCorrecta": "Libros",
+    "opciones": ["Llana", "Espátula", "Libros", "Brocha"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El abogado defiende los derechos de las personas y los representa ante la ley. Usa libros, documentos y su conocimiento legal."
+  },
+  {
+    "oficio": "Veterinario",
+    "imagenOficio": "img/veterinario.png",
+    "herramientaCorrecta": "Maletín",
+    "opciones": ["Espátula", "Maletín", "Pan", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": " El veterinario cuida la salud de los animales, hace diagnósticos y receta tratamientos usando instrumentos  como el estetoscopio."
+  },
+  {
+    "oficio": "Piloto",
+    "imagenOficio": "img/piloto.png",
+    "herramientaCorrecta": "Avión",
+    "opciones": ["Martillo", "Pan", "Avión", "Libros"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El piloto vuela aviones y helicópteros, usando instrumentos de navegación y su conocimiento de aviación."
+  },
+  {
+    "oficio": "Astronauta",
+    "imagenOficio": "img/astronauta.png",
+    "herramientaCorrecta": "Traje",
+    "opciones": ["Libros", "Harina", "Traje", "Tijeras"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El astronauta viaja al espacio, con su  traje espacial y herramientas para investigar el universo."
+  },
+  {
+    "oficio": "Actor",
+    "imagenOficio": "img/actor.png",
+    "herramientaCorrecta": "Telón",
+    "opciones": ["Pan", "Tijeras", "Telón", "Traje"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El actor interpreta personajes en obras de teatro, películas o televisión, usando disfraces, guiones y su expresión corporal."
+  },
+  {
+    "oficio": "Cantante",
+    "imagenOficio": "img/cantante.png",
+    "herramientaCorrecta": "Micrófono",
+    "opciones": ["Tijeras", "Espátula", "Micrófono", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El cantante interpreta canciones y melodías, usando su voz y micrófonos para llegar a su público."
+  },
+  {
+    "oficio": "Escritor",
+    "imagenOficio": "img/escritor.png",
+    "herramientaCorrecta": "Computadora",
+    "opciones": ["Brocha", "Tijeras", "Computadora", "Esposas"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El escritor crea historias y libros. Usa su imaginación y la computadora es una herramienta muy útil."
+  },
+  {
+    "oficio": "Artista",
+    "imagenOficio": "img/artista.png",
+    "herramientaCorrecta": "Pincel",
+    "opciones": ["Planos", "Pincel", "Computadora", "Brocha"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El artista crea obras como pinturas, esculturas o murales, usmaneja los pinceles, las  pinturas y tiene mucha creatividad."
+  },
+  {
+    "oficio": "Investigador",
+    "imagenOficio": "img/investigador.png",
+    "herramientaCorrecta": "Microscopio",
+    "opciones": ["Brocha", "Microscopio", "Espátula", "Llana"],
+    "audioExplicacion": "",
+    "textoExplicacion": "El investigador estudia fenómenos y busca respuestas a preguntas científicas, usando microscopios, tubos de ensayo y computadoras."
+  },
+  {
+    "oficio": "Entrenadora",
+    "imagenOficio": "img/entrenadora.png",
+    "herramientaCorrecta": "Pesas",
+    "opciones": ["Martillo", "Espátula", "Pesas", "Secador"],
+    "audioExplicacion": "",
+    "textoExplicacion": "La entrenadora ayuda a las personas a mantenerse en forma, usando pesas, colchonetas y su conocimiento de ejercicios."
+  }
+]

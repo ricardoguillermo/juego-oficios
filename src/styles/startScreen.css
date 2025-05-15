@@ -1,0 +1,46 @@
+.start-container {
+  min-height: 100vh; /* Hace que ocupe toda la altura de la pantalla */
+  text-align: center;
+  padding: 1rem;
+  background-image: url("./img/fondo.jpg"); /* Cambia la ruta y el nombre de la imagen según corresponda */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jugadores-lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1rem 0;
+}
+.jugador {
+  background: #eee;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.jugador.seleccionado {
+  background: #cce5ff;
+  font-weight: bold;
+}
+
+.footer-oficios {
+  background: transparent;
+  border-top: 2px solid #e0cfc2;
+  padding: 16px;
+  text-align: center;
+  font-family: "Comic Sans MS", "Patrick Hand", cursive;
+  color: black;
+  font-size: 18px;
+  margin-top: 40px;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.footer-oficios small {
+  display: block;
+  margin-top: 6px;
+  font-size: 14px;
+  color: #0a0a0a;
+}
